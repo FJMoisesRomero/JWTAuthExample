@@ -55,3 +55,9 @@ Validation: Always validate tokens before accessing protected resources.
 - Error Handling: Improve error handling and user feedback.
 - Database Integration: Connect the backend to a database for user management. The project currently uses PostgreSQL
 - Token Refresh: Add a mechanism to refresh tokens before they expire.
+  
+## Images 📸
+
+![capture](images/1.png)
+![capture](images/2.png)
+![capture](images/3.png)
